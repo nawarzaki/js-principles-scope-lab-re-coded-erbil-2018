@@ -27,7 +27,7 @@ function overwriteBestCustomer(value) {
 function changeLeastFavoriteCustomer(x){
   let b = overwriteBestCustomer(x)
   if (x = 1){
-    b = TypeError
+    b = nn
   }
   return b
 }
