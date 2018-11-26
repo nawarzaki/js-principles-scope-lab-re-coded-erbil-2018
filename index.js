@@ -27,7 +27,7 @@ const n = 'gg'
 function changeLeastFavoriteCustomer(x){
   let b = n
   if (x = 1){
-    b = ll
+    b = 'gg'
   }
   return b
 }
