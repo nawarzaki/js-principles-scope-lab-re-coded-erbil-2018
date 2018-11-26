@@ -23,11 +23,11 @@ function overwriteBestCustomer(value) {
   }
   return bestCustomer
 }
-
+const n = 'gg'
 function changeLeastFavoriteCustomer(x){
-  let b = overwriteBestCustomer(x)
+  let b = n
   if (x = 1){
-    b = nn
+    b = ll
   }
   return b
 }
