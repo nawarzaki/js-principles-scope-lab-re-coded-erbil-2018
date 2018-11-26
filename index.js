@@ -25,7 +25,7 @@ function overwriteBestCustomer(value) {
 }
 const n = 'gg'
 function changeLeastFavoriteCustomer(x){
-  let b = n
+   b = n
   if (x = 1){
     b = 'gg'
   }
