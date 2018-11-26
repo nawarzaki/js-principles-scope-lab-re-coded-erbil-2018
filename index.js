@@ -22,5 +22,13 @@ function overwriteBestCustomer(value) {
     bestCustomer = 'maybe bob'
   }
   return bestCustomer
-
 }
+
+function changeLeastFavoriteCustomer(x){
+  let b = ''
+  if (x = 1){
+    b = TypeError
+  }
+  return b
+}
+
