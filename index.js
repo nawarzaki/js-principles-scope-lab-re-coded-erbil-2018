@@ -1,5 +1,6 @@
 // Write your solution in this file!
 var customerName = 'bob'
+const leastFavoriteCustomer = 'adam'
 function upperCaseCustomerName(x) {
   var b = ''
   if (x = 1) {
@@ -25,4 +26,9 @@ function overwriteBestCustomer(value) {
 }
 
 function changeLeastFavoriteCustomer(x){
-
+let b = ''
+if (x = 1) {
+  b = (leastFavoriteCustomer = 'adam')
+}
+return b 
+}
