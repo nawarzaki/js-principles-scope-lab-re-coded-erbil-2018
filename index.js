@@ -16,11 +16,4 @@ function setBestCustomer(value) {
   return bestCustomer
 }
 
-function overwriteBestCustomer() {
-  bestCustomer = ''
-  if (){
-    bestCustomer = 'maybe bob'
-  }
-  return bestCustomer
 
-}
