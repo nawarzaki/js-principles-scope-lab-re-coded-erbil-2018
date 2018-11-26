@@ -23,11 +23,6 @@ function overwriteBestCustomer(value) {
   }
   return bestCustomer
 }
-const n = 'gg'
+
 function changeLeastFavoriteCustomer(x){
-   b = n
-  if (x = 1){
-    b = 'gg'
-  }
-  return b
-}
+
