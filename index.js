@@ -30,5 +30,10 @@ let b = ''
 if (x = 1) {
   b = (leastFavoriteCustomer = 'adam')
 }
+<<<<<<< HEAD
 return b
 }
+=======
+return b 
+}
+>>>>>>> 9c828a42c2d2625a7134d9f668753bcdc61e80bb
